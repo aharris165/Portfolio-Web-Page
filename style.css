@@ -1,9 +1,20 @@
 html, body {
   height: 100%;
   width: 100%;
-  background-color: lightgray;
-  /*add background*/
+  background: lightgray;
+  font-family: Serif
+  
 }
+
+body {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 300px;
+}
+
 
 header {
   color: lightgray;
@@ -18,4 +29,6 @@ header {
 p, li, a {
   font-family: Sans-serif;
 }
+
+
 
